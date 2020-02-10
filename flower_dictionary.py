@@ -57,7 +57,7 @@ def validity():
             print('Sorry, the name must be at least 3 characters, but no more than 15 characters.')
             continue
         else:
-            print('Lovely. Now let\'s have a quick description of this flower. Please be brief. (Reminders / phone numbers can go here)')
+            print('Lovely. Now let\'s have a quick description of this flower. Please be brief.')
             trythat = input()
             while len(trythat) == 0 or len(trythat) > 80:
                 print('Your description must not exceed 80 characters but must be at least one character.')

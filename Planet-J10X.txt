@@ -3,3 +3,4 @@
 Rinka                          :: Red, occasionally orange. Blooms in May. 
 Daffilly                       :: Resembles a mix between daffodiles and lily flower. 
 Godack                         :: Brown, long roots, appears to be edible. Has yet to test on human subject. 
+Minfinmoncargha                :: This flower has the maximum allowed 15 characters. The description is 79 chars. 
